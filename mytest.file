@@ -1,2 +1,8 @@
 Data added to file on master branch.
 Entry after first commit of file.
+<<<<<<< master
+=======
+Entry after switch to branch beta-01.
+====>
+    Added to beta-01
+>>>>>>> local
