@@ -1,5 +1,5 @@
 #!/usr/bin/env python
 ##
 ##
-def myfunc_1(a,b,c):
-    print '%s %s %s' % (a,b,c)
+def myfunc_1(a,b,x):
+    print '%s %s %s' % (a,b,x)
